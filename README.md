@@ -1,4 +1,4 @@
-#Face Detection Using Depth Information
+#/ Face Detection Using Depth Information
 
 *Worked in the worklet area: Image Processing and Face Detection to develop a solution to detect human faces in a depth image
 *Developed two models and drew comparisons between them: A custom haar cascade classifier using OpenCV and custom CNN using Tensorflow and Keras
